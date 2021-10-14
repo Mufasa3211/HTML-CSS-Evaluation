@@ -1,0 +1,43 @@
+.image{
+
+    width: 500px;
+}body{
+
+    background-color:lightblue;
+}
+body{
+
+    font-family:Arial;
+}#title{
+
+    color:purple;
+}.rec{
+
+    position:absolute;
+    left:11%;
+    bottom:-48%;
+
+    transform:translate(-50%, -50%);
+    width:400px;
+    height:200px;
+    background:darkblue;
+    position:bottom;
+}.link, .rec{
+
+    color:rgb(119, 108, 108);
+    text-align:center;
+    
+}.link{
+    position:relative;
+    bottom:-50%;
+}img{
+
+    border-style:dotted;
+}.red{
+
+    color:red;
+    font-size: 20px;
+}.green{
+    color:green;
+    font-size:15px;
+}
